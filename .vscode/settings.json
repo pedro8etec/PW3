@@ -13,7 +13,6 @@
     "APP/tsconfig.node.json":true,
     "APP/eslint.config.js":true,
     "APP/package-lock.json":true,
-    "API/package-lock.json":true,
     "APP/.editorconfig":true
   }
 }
